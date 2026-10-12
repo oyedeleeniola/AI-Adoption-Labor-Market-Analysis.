@@ -38,26 +38,33 @@ Correlation does not prove causation. Salary comparisons across countries also r
 
 ## Dashboard Preview
 
-### Executive Dashboard
+### 1. Executive Dashboard
+This dashboard provides an overview of AI adoption, technical job postings, average technical salaries, and monthly trends.
 
-![Executive Dashboard](Images/executive-dashboard.png)
+![Executive Dashboard](executive-dashboard.png)
 
-### AI & Hiring Relationships
+### 2. AI & Hiring Relationships
+This page explores the relationships between AI adoption, technical job postings, AI-related job postings, salaries, and AI skills requirements.
 
-![AI & Hiring Relationships](Images/ai-hiring-relationships.png)
+![AI & Hiring Relationships](ai-hiring-relationships.png)
 
-### Workforce Segmentation
+### 3. Workforce Segmentation
+This page compares AI adoption and labor-market indicators across regions, age groups, and company sizes.
 
-![Workforce Segmentation](Images/workforce-segmentation.png)
+![Workforce Segmentation](workforce-segmentation.png)
 
-### Company Analysis
+### 4. Company Analysis
+This page compares AI adoption, technical job postings, AI-related job postings, salaries, and AI job posting share across companies.
 
-![Company Analysis](Images/company-analysis.png)
+![Company Analysis](company-analysis.png)
 
-### Time Trends
+### 5. Time Trends
+This page examines monthly changes in AI adoption, technical job postings, AI-related job postings, salaries, AI skills requirements, and AI job posting share.
 
-![Time Trends](Images/time-trends.png)
+![Time Trends](time-trends.png)
 
-### Project Summary
+### 6. Project Summary
+This page presents the research question, key findings, methodology, and limitations of the analysis.
 
+![Project Summary](project-summary.png)
 ![Project Summary](Images/project-summary.png)
