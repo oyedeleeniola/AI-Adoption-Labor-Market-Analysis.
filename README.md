@@ -35,3 +35,29 @@ The project uses a synthetic dataset covering:
 The dataset is synthetic and does not represent verified real-world labor-market outcomes.
 
 Correlation does not prove causation. Salary comparisons across countries also require currency normalization.
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Images/executive-dashboard.png)
+
+### AI & Hiring Relationships
+
+![AI & Hiring Relationships](Images/ai-hiring-relationships.png)
+
+### Workforce Segmentation
+
+![Workforce Segmentation](Images/workforce-segmentation.png)
+
+### Company Analysis
+
+![Company Analysis](Images/company-analysis.png)
+
+### Time Trends
+
+![Time Trends](Images/time-trends.png)
+
+### Project Summary
+
+![Project Summary](Images/project-summary.png)
